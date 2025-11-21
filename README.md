@@ -21,6 +21,13 @@ The presentation covers:
 
 It can serve as a teaching resource, a portfolio piece, or a foundation for deeper work in RL & adaptive experimentation.
 
+
+---
+
+Topics: Multi-Armed Bandits, Bayesian Methods, Thompson Sampling,
+Causal ML, Reinforcement Learning, Exploration–Exploitation
+
+
 ---
 
 Reference
