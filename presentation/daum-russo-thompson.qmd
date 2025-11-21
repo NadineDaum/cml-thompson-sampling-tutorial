@@ -3,7 +3,10 @@ title: "A Tutorial on Thompson Sampling"
 subtitle: "Russo et al. (2018)"
 date: 2025-11-25
 author: "Nadine Daum"
-bibliography: refs.bib
+bibliography: ../refs.bib
+
+resources:
+  - img/**
 
 format:
   revealjs:
@@ -20,7 +23,10 @@ format:
       method: mathjax
       url: https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js
     include-in-header: include.html
+    resources:
+      - img/**
 ---
+
 
 ## Problem Setting
 
@@ -44,6 +50,7 @@ format:
 ::: {.column width="55%"}
 ::: {.center}
 ![](img/Figure 2.2.png){width=90%}
+
 :::
 :::
 
