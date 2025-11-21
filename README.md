@@ -2,6 +2,7 @@
 ### Based on Russo et al. (2018)
 
 **“Explore when unsure, exploit when sure.”**
+
 This repository contains a self-contained slide presentation explaining **Thompson Sampling (TS)**, one of the most influential algorithms for solving the **multi-armed bandit** problem.  
 It is designed to be clear, intuitive, and accessible — while still highlighting the underlying Bayesian principles that make TS powerful.
 
