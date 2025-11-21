@@ -1,0 +1,15 @@
+# macOS junk
+.DS_Store
+
+# Quarto caches
+*_cache/
+.quarto/
+
+# Build artifacts
+*.html
+*.pdf
+
+# Python / virtual env (just in case)
+__pycache__/
+*.pyc
+
